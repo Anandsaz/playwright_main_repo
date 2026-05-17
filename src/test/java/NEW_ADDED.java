@@ -14,9 +14,6 @@ public class NEW_ADDED {
         System.out.println("new Anand line added");
         page.navigate("https://testautomationpractice.blogspot.com/");
 
-        System.out.println("afafaf line added");
-        System.out.println("new fsfsg added");
-        System.out.println("sgsg");
         System.out.println("new line added");
         System.out.println("new line added");
         System.out.println("new line added");
