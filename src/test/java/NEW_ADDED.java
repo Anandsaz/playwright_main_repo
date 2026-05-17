@@ -10,7 +10,7 @@ public class NEW_ADDED {
                 .setArgs(Arrays.asList("--start-maximized")));
         BrowserContext context = browser.newContext(new Browser.NewContextOptions().setViewportSize((null)));
         Page page = context.newPage();
-        System.out.println("new Anand line added");
+        System.out.println("new rebase line added");
         System.out.println("new Anand line added");
         page.navigate("https://testautomationpractice.blogspot.com/");
 
