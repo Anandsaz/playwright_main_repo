@@ -12,7 +12,7 @@ public class NEW_ADDED {
         Page page = context.newPage();
         System.out.println("change");
         page.navigate("https://testautomationpractice.blogspot.com/");
-        System.out.println("new changes for main");
+        System.out.println("check now main");
 
     }
 }
