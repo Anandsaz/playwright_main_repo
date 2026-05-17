@@ -15,6 +15,8 @@ public class NEW_ADDED {
         page.navigate("https://testautomationpractice.blogspot.com/");
 
         System.out.println("fafafafafafafded");
+
+        System.out.println("fafafafaaaaaaaaaaaaaaaaaafafafded");
         System.out.println("new line added");
         System.out.println("new line added");
     }
