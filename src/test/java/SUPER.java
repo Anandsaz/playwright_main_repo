@@ -2,7 +2,7 @@ import com.microsoft.playwright.*;
 
 import java.util.Arrays;
 
-public class ADDED {
+public class SUPER {
     public static void main(String[] args) {
 
         Playwright playwright = Playwright.create();
@@ -10,11 +10,8 @@ public class ADDED {
                 .setArgs(Arrays.asList("--start-maximized")));
         BrowserContext context = browser.newContext(new Browser.NewContextOptions().setViewportSize((null)));
         Page page = context.newPage();
-        System.out.println("new rebase line added");
-        System.out.println("new Anand line added");
+        System.out.println("new line added");
+        System.out.println("new line added");
         page.navigate("https://testautomationpractice.blogspot.com/");
-
-        System.out.println("new line added");
-        System.out.println("new line added");
     }
 }
