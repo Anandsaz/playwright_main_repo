@@ -16,6 +16,6 @@ public class NEW_ADDED {
 
         System.out.println("new line added");
         System.out.println("new line added");
-        System.out.println("new line added");
+        System.out.println("Rolex master");
     }
 }
