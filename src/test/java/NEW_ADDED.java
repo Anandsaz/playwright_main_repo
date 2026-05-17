@@ -10,6 +10,9 @@ public class NEW_ADDED {
                 .setArgs(Arrays.asList("--start-maximized")));
         BrowserContext context = browser.newContext(new Browser.NewContextOptions().setViewportSize((null)));
         Page page = context.newPage();
+        System.out.println("new changes for main");
         page.navigate("https://testautomationpractice.blogspot.com/");
+        System.out.println("new changes for main");
+
     }
 }
