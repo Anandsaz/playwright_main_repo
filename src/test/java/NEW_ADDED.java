@@ -12,6 +12,5 @@ public class NEW_ADDED {
         Page page = context.newPage();
         page.navigate("https://testautomationpractice.blogspot.com/");
 
-
     }
 }
