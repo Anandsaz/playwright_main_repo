@@ -10,8 +10,11 @@ public class test_03 {
                 .setArgs(Arrays.asList("--start-maximized")));
         BrowserContext context = browser.newContext(new Browser.NewContextOptions().setViewportSize((null)));
         Page page = context.newPage();
+        System.out.println("Automation");
+        System.out.println("Automation line added");
         page.navigate("https://testautomationpractice.blogspot.com/");
 
+        System.out.println("Automation line added");
 
     }
 }
